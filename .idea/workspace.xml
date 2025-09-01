@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f662b7db-aa1e-4902-aaf1-1c9413e94dc1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/RecPad.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AVC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GMM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Kmeans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearIris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinearNumeros.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLPfmnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MLPmnist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nariz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NarizP1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arvoreDiabeticos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arvoreIris.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arvoreSintetico.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/irisEM.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/linearBrincos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nuvem.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pdf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vinho.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2xYVKP3S7XzbM4o0xrhBZUy7HhY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.AVC.executor&quot;: &quot;Run&quot;,
+    &quot;Python.GMM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Kmeans.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinearIris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.LinearNumeros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MLPfmnist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.MLPmnist.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Nariz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.NarizP1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arvoreDecisao.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arvoreDiabeticos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arvoreIris.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arvoreSintetico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.gaussiana.executor&quot;: &quot;Run&quot;,
+    &quot;Python.irisEM.executor&quot;: &quot;Run&quot;,
+    &quot;Python.linearBrincos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.nuvem.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pdf.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rotulosNariz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vinho.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Códigos/Python/PycharmProjects/RecPad&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17890.14" />
+        <option value="bundled-python-sdk-5b207ade9991-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17890.14" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f662b7db-aa1e-4902-aaf1-1c9413e94dc1" name="Changes" comment="" />
+      <created>1748114930144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748114930144</updated>
+      <workItem from="1748114931218" duration="204000" />
+      <workItem from="1748115224549" duration="19690000" />
+      <workItem from="1748189100088" duration="1655000" />
+      <workItem from="1748998710791" duration="4253000" />
+      <workItem from="1749039015896" duration="7567000" />
+      <workItem from="1749088324963" duration="2076000" />
+      <workItem from="1749123159210" duration="3403000" />
+      <workItem from="1749162346317" duration="4429000" />
+      <workItem from="1749730562657" duration="1042000" />
+      <workItem from="1749733033665" duration="216000" />
+      <workItem from="1750082416649" duration="11014000" />
+      <workItem from="1750193222454" duration="6186000" />
+      <workItem from="1750246657196" duration="10710000" />
+      <workItem from="1750971247784" duration="2650000" />
+      <workItem from="1751296473006" duration="626000" />
+      <workItem from="1751414359318" duration="14999000" />
+      <workItem from="1751582415792" duration="9267000" />
+      <workItem from="1751928614439" duration="5603000" />
+      <workItem from="1754615198430" duration="5603000" />
+      <workItem from="1754688676590" duration="3236000" />
+      <workItem from="1754691955283" duration="111000" />
+      <workItem from="1754692078326" duration="9953000" />
+      <workItem from="1754748242905" duration="14662000" />
+      <workItem from="1754875899072" duration="1931000" />
+      <workItem from="1754954489021" duration="11233000" />
+      <workItem from="1756127606914" duration="8812000" />
+      <workItem from="1756163489641" duration="7042000" />
+      <workItem from="1756209595879" duration="6381000" />
+      <workItem from="1756328322620" duration="2765000" />
+      <workItem from="1756331301829" duration="12005000" />
+      <workItem from="1756382980469" duration="8598000" />
+      <workItem from="1756420274818" duration="11061000" />
+      <workItem from="1756468310081" duration="2079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arvoreSintetico.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/RecPad$LinearIris.coverage" NAME="LinearIris Coverage Results" MODIFIED="1749167632288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$gaussiana.coverage" NAME="gaussiana Coverage Results" MODIFIED="1754620314944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$NarizP1.coverage" NAME="NarizP1 Coverage Results" MODIFIED="1751945737635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$pdf.coverage" NAME="pdf Coverage Results" MODIFIED="1756170419863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$arvoreDiabeticos.coverage" NAME="arvoreDiabeticos Coverage Results" MODIFIED="1748190035511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$MLPmnist.coverage" NAME="MLPmnist Coverage Results" MODIFIED="1751944901433" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$MLPfmnist.coverage" NAME="MLPfmnist Coverage Results" MODIFIED="1750259430882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$arvoreDecisao.coverage" NAME="arvoreDecisao Coverage Results" MODIFIED="1748122150623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$irisEM.coverage" NAME="irisEM Coverage Results" MODIFIED="1756471935737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$arvoreIris.coverage" NAME="arvoreIris Coverage Results" MODIFIED="1748190074139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$linearBrincos.coverage" NAME="linearBrincos Coverage Results" MODIFIED="1749167622514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$nuvem.coverage" NAME="nuvem Coverage Results" MODIFIED="1754688614900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$GMM.coverage" NAME="GMM Coverage Results" MODIFIED="1756429942826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$LinearNumeros.coverage" NAME="LinearNumeros Coverage Results" MODIFIED="1749167611720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$AVC.coverage" NAME="AVC Coverage Results" MODIFIED="1754966320955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$arvoreSintetico.coverage" NAME="arvoreSintetico Coverage Results" MODIFIED="1748190078258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$rotulosNariz.coverage" NAME="rotulosNariz Coverage Results" MODIFIED="1751416450500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$Nariz.coverage" NAME="Nariz Coverage Results" MODIFIED="1751944879837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$Kmeans.coverage" NAME="Kmeans Coverage Results" MODIFIED="1756165203943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/RecPad$vinho.coverage" NAME="vinho Coverage Results" MODIFIED="1754964727448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
