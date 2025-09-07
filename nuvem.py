@@ -3,8 +3,7 @@ import matplotlib
 matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import pandas as pd
-base = pd.read_csv('FEI64.csv')
-print(base.head())
+
 
 
 def gerar_pontos(media, covariancia, amostras):
@@ -56,7 +55,7 @@ mediasn1 = [4, 2.5]
 mediasn2 = [-2.5, -4.2]
 samples = gerar_pontos(mediasn1, matrizn1_cov, 1000)
 amostras = gerar_pontos(mediasn2, matrizn2_cov, 1000)
-'''
+
 fig, axes = plt.subplots(1, 2, figsize=(14, 6))
 
 # Plotar 'samples' no primeiro subgráfico
@@ -79,4 +78,4 @@ axes[1].set_ylim(-8, 8)
 
 # Exibir o gráfico com os dois plots
 plt.tight_layout()
-plt.show()'''
+plt.show()
